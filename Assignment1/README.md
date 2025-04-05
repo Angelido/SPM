@@ -4,7 +4,9 @@ This repository contains the code and report for the Softmax assignment.
 
 ## Folder Structure
 
-- **softmax_code**: Contains the code for the assignment.
+- **a1-softmax.pdf**: The assignment track in PDF format.
 - **report.pdf**: The assignment report in PDF format.
-- **Figures**: Contains the figures generated from the experiments. Two of them are included in the report, and one figure shows the speedup curve.
+- **softmax_code**: Contains the code for the assignment.
 - **scripts**: Contains the main scripts used to perform the experiments.
+- **Figures**: Contains the figures generated from the experiments. Two of them are included in the report, and one figure shows the speedup curve.
+
