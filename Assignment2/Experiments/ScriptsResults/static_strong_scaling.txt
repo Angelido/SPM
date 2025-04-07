@@ -1,0 +1,5976 @@
+Running for X=1, Y=1
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.7332s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.7228s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.7231s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.7203s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.7216s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6891s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.7166s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6901s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.719s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.7167s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=1, Y=2
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6432s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6163s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.65s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6145s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6437s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6475s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6136s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6487s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6457s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6472s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=1, Y=4
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6079s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.583s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6125s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5818s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5837s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6066s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5808s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5778s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5786s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5805s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=1, Y=8
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5879s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5954s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6157s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5885s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5884s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5871s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6174s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6162s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5859s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6231s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=1, Y=16
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6251s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6244s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6223s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6257s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6236s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6225s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6299s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.622s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6305s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.5941s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=1, Y=32
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6332s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6353s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6315s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6398s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.634s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6316s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6303s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6292s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6015s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6334s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=1, Y=64
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6375s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6122s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6435s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6113s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6141s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6392s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6162s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6401s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6114s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 19.6437s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=2, Y=1
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.172s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.1637s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.2939s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.1499s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.1542s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.1476s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.1861s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.2306s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.0796s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.3867s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=2, Y=2
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.8323s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.8586s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.9118s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.8928s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.8694s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.1291s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.0119s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 11.0428s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.7919s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.8458s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=2, Y=4
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2448s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2942s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2481s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2641s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3118s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.6123s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2916s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3239s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3336s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2532s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=2, Y=8
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.5751s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.5307s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.6458s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.5533s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.534s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.4932s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.4599s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.5119s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.5177s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.5923s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=2, Y=16
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3775s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2578s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.1367s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.1321s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.1302s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2019s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.1832s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2567s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2212s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.4185s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=2, Y=32
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3586s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2992s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2945s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.373s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2936s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2413s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.4505s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3429s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3744s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3462s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=2, Y=64
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2214s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.3444s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2155s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2907s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2134s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.1838s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.4661s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.2409s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.1759s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 10.324s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=4, Y=1
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.17206s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.17202s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16521s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16628s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16745s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16724s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16696s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16916s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16749s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.16712s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=4, Y=2
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.96829s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.97174s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 6.19425s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.96486s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.96514s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.96597s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.97328s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.96341s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.96274s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.97022s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=4, Y=4
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.64085s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.64496s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.64453s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.64116s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.64361s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.6397s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.6405s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.6381s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.64001s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.63895s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=4, Y=8
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67259s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67344s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67418s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67498s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67402s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67323s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67523s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.6736s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67649s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.67371s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=4, Y=16
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43376s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43354s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43115s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43271s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43313s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43503s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43453s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.46168s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43638s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.437s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=4, Y=32
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50681s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50988s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.5097s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50677s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50818s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50771s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50458s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50879s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50528s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.50501s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=4, Y=64
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.41703s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.46941s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.42065s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.412s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.42703s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.41424s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.42132s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.41167s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.43081s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 5.59715s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=8, Y=1
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44759s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44827s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44672s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44986s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44816s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44922s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44869s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44965s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.44918s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.4474s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=8, Y=2
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30327s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.3015s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30488s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30343s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30404s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30401s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30438s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30296s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30328s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.30337s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=8, Y=4
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08962s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08994s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.09288s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08957s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08928s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08998s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08577s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.09175s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08876s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08805s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=8, Y=8
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08081s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.07944s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08166s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08169s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.0806s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08043s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.07547s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08085s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08051s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 3.08141s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=8, Y=16
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94863s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94641s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94641s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94651s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94687s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94574s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94624s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94751s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94504s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.94606s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=8, Y=32
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96496s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96691s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96653s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.9666s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96583s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96473s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96665s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96759s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.9668s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.96691s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=8, Y=64
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88098s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88124s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88019s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88153s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.87987s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88078s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88212s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.87974s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88033s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 2.88221s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=16, Y=1
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.8482s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.85238s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.84775s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.8522s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.84757s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.84793s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.84972s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.85219s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.85268s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.84835s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=16, Y=2
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.74766s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.75006s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.74796s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.74651s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.74858s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.75062s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.7503s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.74964s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.74777s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.74912s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=16, Y=4
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62678s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62842s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62798s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62844s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62717s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62791s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62813s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62642s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62725s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62776s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=16, Y=8
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62346s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62355s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62367s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62301s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62344s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62688s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62608s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62417s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62607s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.62254s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=16, Y=16
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53573s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53655s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.5362s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53706s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.5368s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53657s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53553s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53735s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53614s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.53673s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=16, Y=32
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52532s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.5253s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52384s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52494s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52609s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52501s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52535s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.5267s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52445s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.52394s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=16, Y=64
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47149s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47228s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.4711s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47152s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47089s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47171s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47034s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47209s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47062s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.47035s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=32, Y=1
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24199s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24638s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24123s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24807s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24812s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24491s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24894s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24904s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.21643s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.24431s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=32, Y=2
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.17585s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.17885s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.17774s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.17791s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.18308s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.18867s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.18355s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.19099s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.18233s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.18486s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=32, Y=4
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09472s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09888s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0981s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09144s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09829s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09795s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09813s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08647s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08659s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08479s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=32, Y=8
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.07688s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.07227s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.07693s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08554s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08672s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08602s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08926s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08468s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08353s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08168s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=32, Y=16
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0163s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02283s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02559s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02178s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02058s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01639s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01969s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02336s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0172s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01726s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=32, Y=32
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01231s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01223s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.00483s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.996665s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01238s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01464s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01302s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.00506s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.00315s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.00946s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=32, Y=64
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.969706s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.977604s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.971059s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.977164s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.969867s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.977106s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.97638s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.969678s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.976805s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.976411s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=64, Y=1
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.1573s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.1478s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.19336s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.13546s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.15527s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.18384s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.16383s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.15067s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.16163s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 1
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.19161s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=64, Y=2
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09024s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09615s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.11663s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0905s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09819s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09265s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0955s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.12581s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.09923s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 2
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.11448s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=64, Y=4
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.11109s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0833s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.06755s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.05281s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.04294s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.04688s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.07471s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.10847s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.05811s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 4
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.08309s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=64, Y=8
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.03449s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.07202s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.05952s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.05217s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.03258s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0522s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.03552s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.05789s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.03915s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 8
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02466s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=64, Y=16
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.03674s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02552s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.00015s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01797s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.00146s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0213s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.996034s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.04143s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01971s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 16
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.03241s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=64, Y=32
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.990632s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.999212s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.970714s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.0087s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02985s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.00662s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.998854s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01796s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.984427s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 32
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.01767s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+
+Running for X=64, Y=64
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.987492s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.977498s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.995567s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.975984s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.962966s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.975924s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.982224s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.980309s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 0.98537s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949
+
+Dynamic mode: OFF
+Number of threads: 64
+Number of tasks (chunk size): 64
+Ranges:
+1-1000
+10000-1000000
+50000000-100000000
+# elapsed time (parallel_collatz_static): 1.02486s
+Range 1-1000: Max steps = 178
+Range 10000-1000000: Max steps = 524
+Range 50000000-100000000: Max steps = 949

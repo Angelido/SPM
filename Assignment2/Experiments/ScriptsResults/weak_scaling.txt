@@ -1,0 +1,1078 @@
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.37578s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.07994s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.3786s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.0807s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.37649s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.07884s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.3808s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.07821s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.37892s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.07933s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.37339s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.08202s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.37781s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.07875s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.38069s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.08042s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.37767s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.07781s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_static): 3.38044s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: ON
+Number of threads: 1
+Number of tasks (chunk size): 64
+Ranges:
+1-10000000
+# elapsed time (parallel_collatz_dynamic): 3.0793s
+Range 1-10000000: Max steps = 685
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.72121s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.25933s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.73223s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.2924s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.65771s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.31337s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.66223s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.31098s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.68583s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.26385s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.71564s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.30368s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.73181s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.30703s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.72144s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.30319s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.72553s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.29615s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_static): 3.66926s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: ON
+Number of threads: 2
+Number of tasks (chunk size): 64
+Ranges:
+1-20000000
+# elapsed time (parallel_collatz_dynamic): 3.29769s
+Range 1-20000000: Max steps = 704
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.97045s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.55024s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.9723s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.56241s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.99532s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.58556s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.99627s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.55615s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.97358s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.56753s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.9744s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.58818s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.99634s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.54536s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.97252s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.58161s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.96714s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.57632s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_static): 3.99634s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: ON
+Number of threads: 4
+Number of tasks (chunk size): 64
+Ranges:
+1-40000000
+# elapsed time (parallel_collatz_dynamic): 3.55047s
+Range 1-40000000: Max steps = 744
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36667s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84394s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36836s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84297s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36517s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84427s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36628s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.8425s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36626s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.8445s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36577s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84355s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36541s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84425s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36753s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84488s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36745s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84336s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_static): 4.36651s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: ON
+Number of threads: 8
+Number of tasks (chunk size): 64
+Ranges:
+1-80000000
+# elapsed time (parallel_collatz_dynamic): 3.84467s
+Range 1-80000000: Max steps = 949
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.5914s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99193s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.58953s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99201s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59083s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99263s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59115s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99857s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59097s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99274s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59094s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99233s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59007s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99186s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59056s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.9919s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59024s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.9927s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_static): 4.59147s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: ON
+Number of threads: 16
+Number of tasks (chunk size): 64
+Ranges:
+1-160000000
+# elapsed time (parallel_collatz_dynamic): 3.99251s
+Range 1-160000000: Max steps = 950
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.22584s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.716s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.24369s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71601s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.23397s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71593s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.22622s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71584s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.24305s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71555s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.21991s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71586s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.20833s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71534s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.26169s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71595s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.24629s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71558s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: OFF
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_static): 6.24186s
+Range 1-320000000: Max steps = 964
+
+
+Dynamic mode: ON
+Number of threads: 32
+Number of tasks (chunk size): 64
+Ranges:
+1-320000000
+# elapsed time (parallel_collatz_dynamic): 5.71593s
+Range 1-320000000: Max steps = 964
