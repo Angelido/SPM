@@ -57,8 +57,6 @@ There are three versions of the program: sequential, parallel with static schedu
 
 - Same as the static version, but with the `-d` flag to enable **dynamic scheduling**.
 
----
-
 ## 📌 Example
 
 ```bash
