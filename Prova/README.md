@@ -2,19 +2,13 @@
 
 Questa repository contiene il codice riguardante l'esame di Informatica per il corso di studio di Biotecnologie. Di seguito vediamo una descrizione del codice con anche esempi di utilizzo.
 
-
-
 # 📦 MODULO 1
-
-
 
 ## Codice Implementato
 
 Il codice si trova nel file:
 
 - `graph.py` → contiene tre classi principali: `Node`, `Edge` e `Graph`. La classe centrale è `Graph`.
-
-
 
 ### Classe `Node` (ausiliaria a `Graph`)
 
@@ -31,8 +25,6 @@ La classe `Node` rappresenta un nodo, definito come:
 - `__hash__` → hash basato sul nome (nodi con lo stesso nome hanno lo stesso hash)
 - `__deepcopy__` → consente di fare copie profonde del nodo
 
-
-
 ### Classe `Edge` (ausiliaria a `Graph`)
 
 Rappresenta un arco come una quadrupla:
@@ -47,8 +39,6 @@ Rappresenta un arco come una quadrupla:
 - `__repr__`, `__str__` → rappresentazione testuale
 - `__eq__` → due archi sono uguali se partenza, arrivo e label coincidono (peso ignorato)
 
-
-
 ### Classe `Graph`
 
 Modella un grafo come:
@@ -59,12 +49,14 @@ Modella un grafo come:
 **Metodi speciali:**
 
 - `__contains__` → permette di controllare presenza di nodi o archi:
+
   ```python
   if node in graph
   if node.name in graph
   if edge in graph
   ```
 - `__getitem__` → accede al `Trait` di un nodo dato il suo nome o l’oggetto `Node`:
+
   ```python
   trait = graph[nodo1]
   trait = graph[nodo1.name]
@@ -73,6 +65,7 @@ Modella un grafo come:
 - `__len__` → numero di nodi
 - `__deepcopy__` → copia profonda dell'intero grafo
 - `__iter__` → abilita il `for` sugli archi:
+
   ```python
   for edge in graph
   ```
@@ -83,7 +76,6 @@ Modella un grafo come:
 - `add_edge(edge)` → aggiunge un arco (solo se i nodi esistono)
 - `print_nodes()` / `print_edges()` → stampa nodi o archi
 - `get_nodes()` / `get_edges()` → restituisce le rispettive liste
-
 
 
 ## 🚀 QuickStart Modulo 1
