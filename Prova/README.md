@@ -2,11 +2,11 @@
 
 Questa repository contiene il codice riguardante l'esame di Informatica per il corso di studio di Biotecnologie. Di seguito vediamo una descrizione del codice con anche esempi di utilizzo.
 
----
+
 
 # 📦 MODULO 1
 
----
+
 
 ## Codice Implementato
 
@@ -14,7 +14,7 @@ Il codice si trova nel file:
 
 - `graph.py` → contiene tre classi principali: `Node`, `Edge` e `Graph`. La classe centrale è `Graph`.
 
----
+
 
 ### Classe `Node` (ausiliaria a `Graph`)
 
@@ -31,7 +31,7 @@ La classe `Node` rappresenta un nodo, definito come:
 - `__hash__` → hash basato sul nome (nodi con lo stesso nome hanno lo stesso hash)
 - `__deepcopy__` → consente di fare copie profonde del nodo
 
----
+
 
 ### Classe `Edge` (ausiliaria a `Graph`)
 
@@ -47,7 +47,7 @@ Rappresenta un arco come una quadrupla:
 - `__repr__`, `__str__` → rappresentazione testuale
 - `__eq__` → due archi sono uguali se partenza, arrivo e label coincidono (peso ignorato)
 
----
+
 
 ### Classe `Graph`
 
@@ -84,7 +84,7 @@ Modella un grafo come:
 - `print_nodes()` / `print_edges()` → stampa nodi o archi
 - `get_nodes()` / `get_edges()` → restituisce le rispettive liste
 
----
+
 
 ## 🚀 QuickStart Modulo 1
 
@@ -161,7 +161,7 @@ Edge blue -> green, weight: 0.5, label: (edge1)
 Edge green -> brown, weight: 0.5, label: (edge2)
 ```
 
----
+
 
 ## ✅ Conclusioni Modulo 1
 
@@ -173,11 +173,11 @@ La classe `Graph` implementa correttamente tutte le specifiche richieste:
 4. Ogni nodo ha nome univoco
 5. Gli archi sono direzionati, con label e peso
 
----
+
 
 # 📦 MODULO 2
 
----
+
 
 ## Codice Implementato
 
@@ -187,7 +187,7 @@ Il codice è distribuito nei seguenti file:
 - `graph_path.py` → contiene funzioni per trovare tutti i cammini da un nodo in un grafo.
 - `jaccard_similarity.py` → contiene funzioni per calcolare la similarità di Jaccard tra insiemi.
 
----
+
 
 ### Estensioni alla classe `Graph` (`graph.py`)
 
@@ -205,7 +205,7 @@ Abbiamo aggiunto i seguenti metodi:
    Costruisce e restituisce la matrice di adiacenza (`np.ndarray`) del grafo, seguendo l’ordinamento fornito dal metodo precedente.  
   
 
----
+
 
 ### File `graph_path.py`
 
@@ -240,7 +240,7 @@ Tutte le funzioni supportano `find_all_paths()`:
 5. `print_all_paths(paths)`  
    Stampa ogni cammino in formato leggibile (es. `A -> B -> C`).
 
----
+
 
 ###  File `jaccard_similarity.py`
 
@@ -256,7 +256,7 @@ Tutte le funzioni supportano `find_all_paths()`:
 3. `Jaccard_similarity_multiple_sets_mean(all_sets)`  
    Calcola la media della similarità di Jaccard su tutte le coppie possibili.
 
----
+
 
 ## 🚀 QuickStart Modulo 2
 
@@ -325,7 +325,7 @@ print("La Jaccard similarity media tra tutti i set è:", jac_mean)
 La Jaccard similarity media tra tutti i set è: 0.555555555555
 ```
 
----
+
 
 ## ✅ Conclusioni Modulo 2
 
@@ -336,11 +336,11 @@ Abbiamo completato con successo tutte le funzionalità richieste:
 3. Calcolo della similarità di Jaccard tra due insiemi (`Jaccard_similarity`).
 4. Estensione alla similarità media su più insiemi (`Jaccard_similarity_multiple_sets_mean`).
 
----
+
 
 # 📦 MODULO 3 
 
----
+
 
 ## Codice Implementato
 
@@ -348,7 +348,7 @@ Il codice relativo a questo modulo si trova nel file:
 
 - `diffusion.py`: contiene la definizione della classe `Message`, responsabile della diffusione di un messaggio attraverso un grafo.
 
----
+
 
 ### Classe `Message`
 
@@ -374,7 +374,7 @@ Questa classe modella un messaggio che può propagarsi all'interno di un grafo, 
 
 - `print_message_diffusion(diffusione)` → stampa in modo leggibile il risultato della diffusione ottenuto da `message_diffusion`.
 
----
+
 
 ## 🚀 QuickStart Modulo 3
 
@@ -450,7 +450,7 @@ I nodi ['persona4', 'persona8', 'persona9'] sono stati visitati al passaggio 2.
 Il nodo ['persona6'] è stato visitato al passaggio 3.
 ```
 
----
+
 
 ## ✅ Conclusioni Modulo 3
 
