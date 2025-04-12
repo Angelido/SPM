@@ -372,7 +372,9 @@ Questa classe modella un messaggio che può propagarsi all'interno di un grafo, 
 
 Consideriamo il seguente grafo di esempio:
 
-![Grafo](grafo.png)
+<p align="center">
+  <img src="Figures/grafo.png" width="500"/>
+</p>
 
 Esempio 1: Messaggio con tratto non presente nel grafo, dove quindi il costo di diffusione sarà maggiore.
 
