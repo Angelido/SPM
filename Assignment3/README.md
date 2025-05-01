@@ -86,9 +86,11 @@ make all
 
 1. **Comment out** lines 97 and 101 in `minizpar.c`.
 2. Recompile the code:
-   ```bash
-   make all
-   ```
+   
+ ```bash
+ make all
+ ```
+
 3. Set the number of threads dynamically at runtime:
 
 ```bash
