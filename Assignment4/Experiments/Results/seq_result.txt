@@ -1,0 +1,1346 @@
+Esecuzione 1 - Size: 10K, Range: 8
+Record payload: 8
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         80000 bytes  (78.125 KiB, 0.0762939 MiB)
+Total memory used:      240000 bytes  (234.375 KiB, 0.228882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000961416s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10K, Range: 8
+Record payload: 8
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         80000 bytes  (78.125 KiB, 0.0762939 MiB)
+Total memory used:      240000 bytes  (234.375 KiB, 0.228882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000957643s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10K, Range: 8
+Record payload: 8
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         80000 bytes  (78.125 KiB, 0.0762939 MiB)
+Total memory used:      240000 bytes  (234.375 KiB, 0.228882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000981863s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10K, Range: 16
+Record payload: 16
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         160000 bytes  (156.25 KiB, 0.152588 MiB)
+Total memory used:      320000 bytes  (312.5 KiB, 0.305176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.00094644s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10K, Range: 16
+Record payload: 16
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         160000 bytes  (156.25 KiB, 0.152588 MiB)
+Total memory used:      320000 bytes  (312.5 KiB, 0.305176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000964631s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10K, Range: 16
+Record payload: 16
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         160000 bytes  (156.25 KiB, 0.152588 MiB)
+Total memory used:      320000 bytes  (312.5 KiB, 0.305176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000957879s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10K, Range: 32
+Record payload: 32
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         320000 bytes  (312.5 KiB, 0.305176 MiB)
+Total memory used:      480000 bytes  (468.75 KiB, 0.457764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000995053s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10K, Range: 32
+Record payload: 32
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         320000 bytes  (312.5 KiB, 0.305176 MiB)
+Total memory used:      480000 bytes  (468.75 KiB, 0.457764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000980534s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10K, Range: 32
+Record payload: 32
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         320000 bytes  (312.5 KiB, 0.305176 MiB)
+Total memory used:      480000 bytes  (468.75 KiB, 0.457764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000968776s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10K, Range: 64
+Record payload: 64
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         640000 bytes  (625 KiB, 0.610352 MiB)
+Total memory used:      800000 bytes  (781.25 KiB, 0.762939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000988986s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10K, Range: 64
+Record payload: 64
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         640000 bytes  (625 KiB, 0.610352 MiB)
+Total memory used:      800000 bytes  (781.25 KiB, 0.762939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000975202s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10K, Range: 64
+Record payload: 64
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         640000 bytes  (625 KiB, 0.610352 MiB)
+Total memory used:      800000 bytes  (781.25 KiB, 0.762939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000988754s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10K, Range: 128
+Record payload: 128
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         1280000 bytes  (1250 KiB, 1.2207 MiB)
+Total memory used:      1440000 bytes  (1406.25 KiB, 1.37329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000978264s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10K, Range: 128
+Record payload: 128
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         1280000 bytes  (1250 KiB, 1.2207 MiB)
+Total memory used:      1440000 bytes  (1406.25 KiB, 1.37329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000983803s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10K, Range: 128
+Record payload: 128
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         1280000 bytes  (1250 KiB, 1.2207 MiB)
+Total memory used:      1440000 bytes  (1406.25 KiB, 1.37329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000936488s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100K, Range: 8
+Record payload: 8
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         800000 bytes  (781.25 KiB, 0.762939 MiB)
+Total memory used:      2400000 bytes  (2343.75 KiB, 2.28882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.019966s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100K, Range: 8
+Record payload: 8
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         800000 bytes  (781.25 KiB, 0.762939 MiB)
+Total memory used:      2400000 bytes  (2343.75 KiB, 2.28882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.020315s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100K, Range: 8
+Record payload: 8
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         800000 bytes  (781.25 KiB, 0.762939 MiB)
+Total memory used:      2400000 bytes  (2343.75 KiB, 2.28882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0201529s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100K, Range: 16
+Record payload: 16
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Total memory used:      3200000 bytes  (3125 KiB, 3.05176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0196364s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100K, Range: 16
+Record payload: 16
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Total memory used:      3200000 bytes  (3125 KiB, 3.05176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0197215s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100K, Range: 16
+Record payload: 16
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Total memory used:      3200000 bytes  (3125 KiB, 3.05176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0195085s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100K, Range: 32
+Record payload: 32
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         3200000 bytes  (3125 KiB, 3.05176 MiB)
+Total memory used:      4800000 bytes  (4687.5 KiB, 4.57764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0208555s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100K, Range: 32
+Record payload: 32
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         3200000 bytes  (3125 KiB, 3.05176 MiB)
+Total memory used:      4800000 bytes  (4687.5 KiB, 4.57764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0211796s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100K, Range: 32
+Record payload: 32
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         3200000 bytes  (3125 KiB, 3.05176 MiB)
+Total memory used:      4800000 bytes  (4687.5 KiB, 4.57764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0207s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100K, Range: 64
+Record payload: 64
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         6400000 bytes  (6250 KiB, 6.10352 MiB)
+Total memory used:      8000000 bytes  (7812.5 KiB, 7.62939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0263299s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100K, Range: 64
+Record payload: 64
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         6400000 bytes  (6250 KiB, 6.10352 MiB)
+Total memory used:      8000000 bytes  (7812.5 KiB, 7.62939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0256128s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100K, Range: 64
+Record payload: 64
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         6400000 bytes  (6250 KiB, 6.10352 MiB)
+Total memory used:      8000000 bytes  (7812.5 KiB, 7.62939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0253244s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100K, Range: 128
+Record payload: 128
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         12800000 bytes  (12500 KiB, 12.207 MiB)
+Total memory used:      14400000 bytes  (14062.5 KiB, 13.7329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.040807s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100K, Range: 128
+Record payload: 128
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         12800000 bytes  (12500 KiB, 12.207 MiB)
+Total memory used:      14400000 bytes  (14062.5 KiB, 13.7329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.040305s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100K, Range: 128
+Record payload: 128
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         12800000 bytes  (12500 KiB, 12.207 MiB)
+Total memory used:      14400000 bytes  (14062.5 KiB, 13.7329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0400736s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 1M, Range: 8
+Record payload: 8
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         8000000 bytes  (7812.5 KiB, 7.62939 MiB)
+Total memory used:      24000000 bytes  (23437.5 KiB, 22.8882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.424976s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 1M, Range: 8
+Record payload: 8
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         8000000 bytes  (7812.5 KiB, 7.62939 MiB)
+Total memory used:      24000000 bytes  (23437.5 KiB, 22.8882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.42453s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 1M, Range: 8
+Record payload: 8
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         8000000 bytes  (7812.5 KiB, 7.62939 MiB)
+Total memory used:      24000000 bytes  (23437.5 KiB, 22.8882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.424358s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 1M, Range: 16
+Record payload: 16
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         16000000 bytes  (15625 KiB, 15.2588 MiB)
+Total memory used:      32000000 bytes  (31250 KiB, 30.5176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.41992s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 1M, Range: 16
+Record payload: 16
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         16000000 bytes  (15625 KiB, 15.2588 MiB)
+Total memory used:      32000000 bytes  (31250 KiB, 30.5176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.419241s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 1M, Range: 16
+Record payload: 16
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         16000000 bytes  (15625 KiB, 15.2588 MiB)
+Total memory used:      32000000 bytes  (31250 KiB, 30.5176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.418684s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 1M, Range: 32
+Record payload: 32
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         32000000 bytes  (31250 KiB, 30.5176 MiB)
+Total memory used:      48000000 bytes  (46875 KiB, 45.7764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.510633s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 1M, Range: 32
+Record payload: 32
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         32000000 bytes  (31250 KiB, 30.5176 MiB)
+Total memory used:      48000000 bytes  (46875 KiB, 45.7764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.510918s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 1M, Range: 32
+Record payload: 32
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         32000000 bytes  (31250 KiB, 30.5176 MiB)
+Total memory used:      48000000 bytes  (46875 KiB, 45.7764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.508801s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 1M, Range: 64
+Record payload: 64
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         64000000 bytes  (62500 KiB, 61.0352 MiB)
+Total memory used:      80000000 bytes  (78125 KiB, 76.2939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.688572s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 1M, Range: 64
+Record payload: 64
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         64000000 bytes  (62500 KiB, 61.0352 MiB)
+Total memory used:      80000000 bytes  (78125 KiB, 76.2939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.689107s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 1M, Range: 64
+Record payload: 64
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         64000000 bytes  (62500 KiB, 61.0352 MiB)
+Total memory used:      80000000 bytes  (78125 KiB, 76.2939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.68848s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 1M, Range: 128
+Record payload: 128
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         128000000 bytes  (125000 KiB, 122.07 MiB)
+Total memory used:      144000000 bytes  (140625 KiB, 137.329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.920666s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 1M, Range: 128
+Record payload: 128
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         128000000 bytes  (125000 KiB, 122.07 MiB)
+Total memory used:      144000000 bytes  (140625 KiB, 137.329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.920608s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 1M, Range: 128
+Record payload: 128
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         128000000 bytes  (125000 KiB, 122.07 MiB)
+Total memory used:      144000000 bytes  (140625 KiB, 137.329 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.920173s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10M, Range: 8
+Record payload: 8
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         80000000 bytes  (78125 KiB, 76.2939 MiB)
+Total memory used:      240000000 bytes  (234375 KiB, 228.882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 7.07057s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10M, Range: 8
+Record payload: 8
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         80000000 bytes  (78125 KiB, 76.2939 MiB)
+Total memory used:      240000000 bytes  (234375 KiB, 228.882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 7.07543s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10M, Range: 8
+Record payload: 8
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         80000000 bytes  (78125 KiB, 76.2939 MiB)
+Total memory used:      240000000 bytes  (234375 KiB, 228.882 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 7.04878s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10M, Range: 16
+Record payload: 16
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         160000000 bytes  (156250 KiB, 152.588 MiB)
+Total memory used:      320000000 bytes  (312500 KiB, 305.176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 7.01539s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10M, Range: 16
+Record payload: 16
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         160000000 bytes  (156250 KiB, 152.588 MiB)
+Total memory used:      320000000 bytes  (312500 KiB, 305.176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 7.01073s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10M, Range: 16
+Record payload: 16
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         160000000 bytes  (156250 KiB, 152.588 MiB)
+Total memory used:      320000000 bytes  (312500 KiB, 305.176 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 7.00861s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10M, Range: 32
+Record payload: 32
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         320000000 bytes  (312500 KiB, 305.176 MiB)
+Total memory used:      480000000 bytes  (468750 KiB, 457.764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 8.41561s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10M, Range: 32
+Record payload: 32
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         320000000 bytes  (312500 KiB, 305.176 MiB)
+Total memory used:      480000000 bytes  (468750 KiB, 457.764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 8.43098s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10M, Range: 32
+Record payload: 32
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         320000000 bytes  (312500 KiB, 305.176 MiB)
+Total memory used:      480000000 bytes  (468750 KiB, 457.764 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 8.42074s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10M, Range: 64
+Record payload: 64
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         640000000 bytes  (625000 KiB, 610.352 MiB)
+Total memory used:      800000000 bytes  (781250 KiB, 762.939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 11.287s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10M, Range: 64
+Record payload: 64
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         640000000 bytes  (625000 KiB, 610.352 MiB)
+Total memory used:      800000000 bytes  (781250 KiB, 762.939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 11.3012s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10M, Range: 64
+Record payload: 64
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         640000000 bytes  (625000 KiB, 610.352 MiB)
+Total memory used:      800000000 bytes  (781250 KiB, 762.939 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 11.283s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10M, Range: 128
+Record payload: 128
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         1280000000 bytes  (1.25e+06 KiB, 1220.7 MiB)
+Total memory used:      1440000000 bytes  (1.40625e+06 KiB, 1373.29 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 14.7097s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10M, Range: 128
+Record payload: 128
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         1280000000 bytes  (1.25e+06 KiB, 1220.7 MiB)
+Total memory used:      1440000000 bytes  (1.40625e+06 KiB, 1373.29 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 14.7022s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10M, Range: 128
+Record payload: 128
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         1280000000 bytes  (1.25e+06 KiB, 1220.7 MiB)
+Total memory used:      1440000000 bytes  (1.40625e+06 KiB, 1373.29 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 14.7046s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100M, Range: 8
+Record payload: 8
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         800000000 bytes  (781250 KiB, 762.939 MiB)
+Total memory used:      2400000000 bytes  (2.34375e+06 KiB, 2288.82 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 95.1296s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100M, Range: 8
+Record payload: 8
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         800000000 bytes  (781250 KiB, 762.939 MiB)
+Total memory used:      2400000000 bytes  (2.34375e+06 KiB, 2288.82 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 95.0311s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100M, Range: 8
+Record payload: 8
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  8 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         800000000 bytes  (781250 KiB, 762.939 MiB)
+Total memory used:      2400000000 bytes  (2.34375e+06 KiB, 2288.82 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 94.9473s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100M, Range: 16
+Record payload: 16
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Total memory used:      3200000000 bytes  (3.125e+06 KiB, 3051.76 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 94.1612s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100M, Range: 16
+Record payload: 16
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Total memory used:      3200000000 bytes  (3.125e+06 KiB, 3051.76 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 94.0557s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100M, Range: 16
+Record payload: 16
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  16 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Total memory used:      3200000000 bytes  (3.125e+06 KiB, 3051.76 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 94.002s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100M, Range: 32
+Record payload: 32
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         3200000000 bytes  (3.125e+06 KiB, 3051.76 MiB)
+Total memory used:      4800000000 bytes  (4.6875e+06 KiB, 4577.64 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 118.501s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100M, Range: 32
+Record payload: 32
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         3200000000 bytes  (3.125e+06 KiB, 3051.76 MiB)
+Total memory used:      4800000000 bytes  (4.6875e+06 KiB, 4577.64 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 117.956s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100M, Range: 32
+Record payload: 32
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  32 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         3200000000 bytes  (3.125e+06 KiB, 3051.76 MiB)
+Total memory used:      4800000000 bytes  (4.6875e+06 KiB, 4577.64 MiB)
+===========================
+
+Esecuzione 1 - Size: 100M, Range: 64
+Record payload: 64
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         6400000000 bytes  (6.25e+06 KiB, 6103.52 MiB)
+Total memory used:      8000000000 bytes  (7.8125e+06 KiB, 7629.39 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 157.722s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100M, Range: 64
+Record payload: 64
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         6400000000 bytes  (6.25e+06 KiB, 6103.52 MiB)
+Total memory used:      8000000000 bytes  (7.8125e+06 KiB, 7629.39 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 158.092s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100M, Range: 64
+Record payload: 64
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  64 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         6400000000 bytes  (6.25e+06 KiB, 6103.52 MiB)
+Total memory used:      8000000000 bytes  (7.8125e+06 KiB, 7629.39 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 157.942s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100M, Range: 128
+Record payload: 128
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         12800000000 bytes  (1.25e+07 KiB, 12207 MiB)
+Total memory used:      14400000000 bytes  (1.40625e+07 KiB, 13732.9 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 200.458s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100M, Range: 128
+Record payload: 128
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         12800000000 bytes  (1.25e+07 KiB, 12207 MiB)
+Total memory used:      14400000000 bytes  (1.40625e+07 KiB, 13732.9 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 200.315s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100M, Range: 128
+Record payload: 128
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  128 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         12800000000 bytes  (1.25e+07 KiB, 12207 MiB)
+Total memory used:      14400000000 bytes  (1.40625e+07 KiB, 13732.9 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 200.206s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10K, Range: 256
+Record payload: 256
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         2560000 bytes  (2500 KiB, 2.44141 MiB)
+Total memory used:      2720000 bytes  (2656.25 KiB, 2.59399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000964346s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10K, Range: 256
+Record payload: 256
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         2560000 bytes  (2500 KiB, 2.44141 MiB)
+Total memory used:      2720000 bytes  (2656.25 KiB, 2.59399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000973944s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10K, Range: 256
+Record payload: 256
+Array size: 10000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     160000 bytes  (156.25 KiB, 0.152588 MiB)
+Payloads total:         2560000 bytes  (2500 KiB, 2.44141 MiB)
+Total memory used:      2720000 bytes  (2656.25 KiB, 2.59399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.000987954s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100K, Range: 256
+Record payload: 256
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         25600000 bytes  (25000 KiB, 24.4141 MiB)
+Total memory used:      27200000 bytes  (26562.5 KiB, 25.9399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0684752s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100K, Range: 256
+Record payload: 256
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         25600000 bytes  (25000 KiB, 24.4141 MiB)
+Total memory used:      27200000 bytes  (26562.5 KiB, 25.9399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0687344s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100K, Range: 256
+Record payload: 256
+Array size: 100000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     1600000 bytes  (1562.5 KiB, 1.52588 MiB)
+Payloads total:         25600000 bytes  (25000 KiB, 24.4141 MiB)
+Total memory used:      27200000 bytes  (26562.5 KiB, 25.9399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 0.0683009s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 1M, Range: 256
+Record payload: 256
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         256000000 bytes  (250000 KiB, 244.141 MiB)
+Total memory used:      272000000 bytes  (265625 KiB, 259.399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 1.38885s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 1M, Range: 256
+Record payload: 256
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         256000000 bytes  (250000 KiB, 244.141 MiB)
+Total memory used:      272000000 bytes  (265625 KiB, 259.399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 1.38792s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 1M, Range: 256
+Record payload: 256
+Array size: 1000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     16000000 bytes  (15625 KiB, 15.2588 MiB)
+Payloads total:         256000000 bytes  (250000 KiB, 244.141 MiB)
+Total memory used:      272000000 bytes  (265625 KiB, 259.399 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 1.39137s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 10M, Range: 256
+Record payload: 256
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         2560000000 bytes  (2.5e+06 KiB, 2441.41 MiB)
+Total memory used:      2720000000 bytes  (2.65625e+06 KiB, 2593.99 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 21.1832s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 10M, Range: 256
+Record payload: 256
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         2560000000 bytes  (2.5e+06 KiB, 2441.41 MiB)
+Total memory used:      2720000000 bytes  (2.65625e+06 KiB, 2593.99 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 21.1614s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 10M, Range: 256
+Record payload: 256
+Array size: 10000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     160000000 bytes  (156250 KiB, 152.588 MiB)
+Payloads total:         2560000000 bytes  (2.5e+06 KiB, 2441.41 MiB)
+Total memory used:      2720000000 bytes  (2.65625e+06 KiB, 2593.99 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 21.1675s
+Array ordinato correttamente.
+
+Esecuzione 1 - Size: 100M, Range: 256
+Record payload: 256
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         25600000000 bytes  (2.5e+07 KiB, 24414.1 MiB)
+Total memory used:      27200000000 bytes  (2.65625e+07 KiB, 25939.9 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 287.239s
+Array ordinato correttamente.
+
+Esecuzione 2 - Size: 100M, Range: 256
+Record payload: 256
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         25600000000 bytes  (2.5e+07 KiB, 24414.1 MiB)
+Total memory used:      27200000000 bytes  (2.65625e+07 KiB, 25939.9 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 286.911s
+Array ordinato correttamente.
+
+Esecuzione 3 - Size: 100M, Range: 256
+Record payload: 256
+Array size: 100000000
+=== Memory usage report ===
+sizeof(Record):         16 bytes
+sizeof(key):            8 bytes
+RPAYLOAD (per record):  256 bytes
+Record array total:     1600000000 bytes  (1.5625e+06 KiB, 1525.88 MiB)
+Payloads total:         25600000000 bytes  (2.5e+07 KiB, 24414.1 MiB)
+Total memory used:      27200000000 bytes  (2.65625e+07 KiB, 25939.9 MiB)
+===========================
+
+# elapsed time (sequential_mergesort): 287.252s
+Array ordinato correttamente.

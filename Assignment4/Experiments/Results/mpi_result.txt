@@ -1,0 +1,3960 @@
+Risultati esecuzioni MergeSort distribuito
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 8, Threads: 8
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.308069s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 8, Threads: 16
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.202224s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 8, Threads: 32
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.231247s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 16, Threads: 8
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.306967s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 16, Threads: 16
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.201631s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 16, Threads: 32
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.229314s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 32, Threads: 8
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.387783s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 32, Threads: 16
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.253861s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 32, Threads: 32
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.293054s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 64, Threads: 8
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.529598s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 64, Threads: 16
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.343499s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 64, Threads: 32
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.38558s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 128, Threads: 8
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.660845s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 128, Threads: 16
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.447081s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 128, Threads: 32
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.482146s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 256, Threads: 8
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.912716s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 256, Threads: 16
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.65264s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 1000000, Payload: 256, Threads: 32
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.738924s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 8, Threads: 8
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.03181s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 8, Threads: 16
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.77995s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 8, Threads: 32
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.99701s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 16, Threads: 8
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.04789s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 16, Threads: 16
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.77095s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 16, Threads: 32
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.96425s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 32, Threads: 8
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.51886s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 32, Threads: 16
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 3.50969s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 32, Threads: 32
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 3.70803s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 64, Threads: 8
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 4.99161s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 64, Threads: 16
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 4.71271s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 64, Threads: 32
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 5.19276s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 128, Threads: 8
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 6.30899s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 128, Threads: 16
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 5.89213s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 128, Threads: 32
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 6.2078s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 256, Threads: 8
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 9.9042s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 256, Threads: 16
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 8.34016s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 10000000, Payload: 256, Threads: 32
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 9.5456s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 8, Threads: 8
+srun: job 215525 queued and waiting for resources
+srun: job 215525 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 29.5375s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 8, Threads: 16
+srun: job 215527 queued and waiting for resources
+srun: job 215527 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 28.3445s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 8, Threads: 32
+srun: job 215534 queued and waiting for resources
+srun: job 215534 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 30.6603s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 16, Threads: 8
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 29.329s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 16, Threads: 16
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 28.0686s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 16, Threads: 32
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 29.2165s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 32, Threads: 8
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 36.7637s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 32, Threads: 16
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 35.0144s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 32, Threads: 32
+srun: job 215544 queued and waiting for resources
+srun: job 215544 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 38.6759s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 64, Threads: 8
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 52.2112s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 64, Threads: 16
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 51.0466s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 64, Threads: 32
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 53.1224s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 128, Threads: 8
+srun: job 215560 queued and waiting for resources
+srun: job 215560 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 72.3823s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 128, Threads: 16
+srun: job 215565 queued and waiting for resources
+srun: job 215565 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 61.1685s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 128, Threads: 32
+srun: job 215570 queued and waiting for resources
+srun: job 215570 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 66.504s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 256, Threads: 8
+srun: job 215576 queued and waiting for resources
+srun: job 215576 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 104.863s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 256, Threads: 16
+srun: job 215582 queued and waiting for resources
+srun: job 215582 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 98.1172s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 100000000, Payload: 256, Threads: 32
+srun: job 215593 queued and waiting for resources
+srun: job 215593 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 113.362s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 8, Threads: 8
+srun: job 215603 queued and waiting for resources
+srun: job 215603 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.346597 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 8, Threads: 16
+srun: job 215607 queued and waiting for resources
+srun: job 215607 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.303779 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 8, Threads: 32
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.32029 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 16, Threads: 8
+srun: job 215612 queued and waiting for resources
+srun: job 215612 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.353915 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 16, Threads: 16
+srun: job 215614 queued and waiting for resources
+srun: job 215614 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.312455 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 16, Threads: 32
+srun: job 215618 queued and waiting for resources
+srun: job 215618 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.326112 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 32, Threads: 8
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.453923 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 32, Threads: 16
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.426513 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 32, Threads: 32
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.407138 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 64, Threads: 8
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.622665 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 64, Threads: 16
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.527579 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 64, Threads: 32
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.554019 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 128, Threads: 8
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.85096 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 128, Threads: 16
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.739166 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 128, Threads: 32
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.764989 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 256, Threads: 8
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 1.34046 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 256, Threads: 16
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 1.20854 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 1000000, Payload: 256, Threads: 32
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 1.25431 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 8, Threads: 8
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 4.13679 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 8, Threads: 16
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 3.55166 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 8, Threads: 32
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 3.34836 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 16, Threads: 8
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 3.8552 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 16, Threads: 16
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 3.67616 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 16, Threads: 32
+srun: job 215639 queued and waiting for resources
+srun: job 215639 has been allocated resources
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 3.76856 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 32, Threads: 8
+srun: job 215643 queued and waiting for resources
+srun: job 215643 has been allocated resources
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 5.24598 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 32, Threads: 16
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 4.22084 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 32, Threads: 32
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 4.55498 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 64, Threads: 8
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 7.27498 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 64, Threads: 16
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 6.01567 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 64, Threads: 32
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 6.23923 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 128, Threads: 8
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 10.2135 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 128, Threads: 16
+srun: job 215653 queued and waiting for resources
+srun: job 215653 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 9.58328 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 128, Threads: 32
+srun: job 215654 queued and waiting for resources
+srun: job 215654 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 11.424 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 256, Threads: 8
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 15.9196 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 256, Threads: 16
+srun: job 215658 queued and waiting for resources
+srun: job 215658 has been allocated resources
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 14.4213 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 10000000, Payload: 256, Threads: 32
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 15.2292 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 8, Threads: 8
+srun: job 215662 queued and waiting for resources
+srun: job 215662 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 83.412 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 8, Threads: 16
+srun: job 215672 queued and waiting for resources
+srun: job 215672 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 75.3228 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 8, Threads: 32
+srun: job 215684 queued and waiting for resources
+srun: job 215684 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 76.3398 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 16, Threads: 8
+srun: job 215690 queued and waiting for resources
+srun: job 215690 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 85.1521 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 16, Threads: 16
+srun: job 215695 queued and waiting for resources
+srun: job 215695 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 75.6923 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 16, Threads: 32
+srun: job 215700 queued and waiting for resources
+srun: job 215700 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 80.7286 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 32, Threads: 8
+srun: job 215708 queued and waiting for resources
+srun: job 215708 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 108.198 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 32, Threads: 16
+srun: job 215715 queued and waiting for resources
+srun: job 215715 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 97.3192 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 32, Threads: 32
+srun: job 215721 queued and waiting for resources
+srun: job 215721 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 99.1425 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 64, Threads: 8
+srun: job 215727 queued and waiting for resources
+srun: job 215727 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 150.235 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 64, Threads: 16
+srun: job 215734 queued and waiting for resources
+srun: job 215734 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 134.916 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 64, Threads: 32
+srun: job 215740 queued and waiting for resources
+srun: job 215740 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 138.021 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 128, Threads: 8
+srun: job 215743 queued and waiting for resources
+srun: job 215743 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 204.021 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 128, Threads: 16
+srun: job 215748 queued and waiting for resources
+srun: job 215748 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 188.212 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 128, Threads: 32
+srun: job 215756 queued and waiting for resources
+srun: job 215756 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 200.37 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 256, Threads: 8
+srun: job 215767 queued and waiting for resources
+srun: job 215767 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 321.139 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 256, Threads: 16
+srun: job 215775 queued and waiting for resources
+srun: job 215775 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 326.466 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 100000000, Payload: 256, Threads: 32
+srun: job 215785 queued and waiting for resources
+srun: job 215785 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 309.328 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 8, Threads: 8
+srun: job 215795 queued and waiting for resources
+srun: job 215795 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.293384 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 8, Threads: 16
+srun: job 215800 queued and waiting for resources
+srun: job 215800 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.27655 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 8, Threads: 32
+srun: job 215803 queued and waiting for resources
+srun: job 215803 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.298922 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 16, Threads: 8
+srun: job 215806 queued and waiting for resources
+srun: job 215806 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.316711 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 16, Threads: 16
+srun: job 215809 queued and waiting for resources
+srun: job 215809 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.293298 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 16, Threads: 32
+srun: job 215813 queued and waiting for resources
+srun: job 215813 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.322086 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 32, Threads: 8
+srun: job 215816 queued and waiting for resources
+srun: job 215816 has been allocated resources
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.409421 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 32, Threads: 16
+srun: job 215820 queued and waiting for resources
+srun: job 215820 has been allocated resources
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.372835 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 32, Threads: 32
+srun: job 215823 queued and waiting for resources
+srun: job 215823 has been allocated resources
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.386735 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 64, Threads: 8
+srun: job 215827 queued and waiting for resources
+srun: job 215827 has been allocated resources
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.595739 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 64, Threads: 16
+srun: job 215831 queued and waiting for resources
+srun: job 215831 has been allocated resources
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.536311 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 64, Threads: 32
+srun: job 215835 queued and waiting for resources
+srun: job 215835 has been allocated resources
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.590009 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 128, Threads: 8
+srun: job 215838 queued and waiting for resources
+srun: job 215838 has been allocated resources
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.840999 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 128, Threads: 16
+srun: job 215841 queued and waiting for resources
+srun: job 215841 has been allocated resources
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.790044 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 128, Threads: 32
+srun: job 215846 queued and waiting for resources
+srun: job 215846 has been allocated resources
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.805483 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 256, Threads: 8
+srun: job 215849 queued and waiting for resources
+srun: job 215849 has been allocated resources
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.49068 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 256, Threads: 16
+srun: job 215854 queued and waiting for resources
+srun: job 215854 has been allocated resources
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.42118 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 1000000, Payload: 256, Threads: 32
+srun: job 215857 queued and waiting for resources
+srun: job 215857 has been allocated resources
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.45519 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 8, Threads: 8
+srun: job 215862 queued and waiting for resources
+srun: job 215862 has been allocated resources
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.29096 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 8, Threads: 16
+srun: job 215866 queued and waiting for resources
+srun: job 215866 has been allocated resources
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.93712 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 8, Threads: 32
+srun: job 215871 queued and waiting for resources
+srun: job 215871 has been allocated resources
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.16117 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 16, Threads: 8
+srun: job 215874 queued and waiting for resources
+srun: job 215874 has been allocated resources
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.4948 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 16, Threads: 16
+srun: job 215876 queued and waiting for resources
+srun: job 215876 has been allocated resources
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.14348 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 16, Threads: 32
+srun: job 215878 queued and waiting for resources
+srun: job 215878 has been allocated resources
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.36113 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 32, Threads: 8
+srun: job 215880 queued and waiting for resources
+srun: job 215880 has been allocated resources
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 4.46844 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 32, Threads: 16
+srun: job 215883 queued and waiting for resources
+srun: job 215883 has been allocated resources
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 4.20033 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 32, Threads: 32
+srun: job 215885 queued and waiting for resources
+srun: job 215885 has been allocated resources
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 4.18671 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 64, Threads: 8
+srun: job 215889 queued and waiting for resources
+srun: job 215889 has been allocated resources
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 6.37473 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 64, Threads: 16
+srun: job 215893 queued and waiting for resources
+srun: job 215893 has been allocated resources
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 5.62555 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 64, Threads: 32
+srun: job 215896 queued and waiting for resources
+srun: job 215896 has been allocated resources
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 5.89984 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 128, Threads: 8
+srun: job 215902 queued and waiting for resources
+srun: job 215902 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 9.73533 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 128, Threads: 16
+srun: job 215908 queued and waiting for resources
+srun: job 215908 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 8.56323 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 128, Threads: 32
+srun: job 215911 queued and waiting for resources
+srun: job 215911 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 8.63757 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 256, Threads: 8
+srun: job 215914 queued and waiting for resources
+srun: job 215914 has been allocated resources
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 16.1026 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 256, Threads: 16
+srun: job 215918 queued and waiting for resources
+srun: job 215918 has been allocated resources
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 16.4447 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 10000000, Payload: 256, Threads: 32
+srun: job 215931 queued and waiting for resources
+srun: job 215931 has been allocated resources
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 15.3512 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 8, Threads: 8
+srun: job 215937 queued and waiting for resources
+srun: job 215937 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 73.279 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 8, Threads: 16
+srun: job 215944 queued and waiting for resources
+srun: job 215944 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 69.9774 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 8, Threads: 32
+srun: job 215950 queued and waiting for resources
+srun: job 215950 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 68.7291 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 16, Threads: 8
+srun: job 215970 queued and waiting for resources
+srun: job 215970 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 74.9317 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 16, Threads: 16
+srun: job 215982 queued and waiting for resources
+srun: job 215982 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 72.9683 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 16, Threads: 32
+srun: job 215995 queued and waiting for resources
+srun: job 215995 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 71.1124 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 32, Threads: 8
+srun: job 216000 queued and waiting for resources
+srun: job 216000 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 97.5629 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 32, Threads: 16
+srun: job 216021 queued and waiting for resources
+srun: job 216021 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 88.7501 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 32, Threads: 32
+srun: job 216036 queued and waiting for resources
+srun: job 216036 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 91.0327 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 64, Threads: 8
+srun: job 216050 queued and waiting for resources
+srun: job 216050 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 136.876 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 64, Threads: 16
+srun: job 216063 queued and waiting for resources
+srun: job 216063 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 128.333 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 64, Threads: 32
+srun: job 216081 queued and waiting for resources
+srun: job 216081 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 133.4 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 128, Threads: 8
+srun: job 216091 queued and waiting for resources
+srun: job 216091 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 186.07 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 128, Threads: 16
+srun: job 216094 queued and waiting for resources
+srun: job 216094 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 178.422 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 128, Threads: 32
+srun: job 216099 queued and waiting for resources
+srun: job 216099 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 179.024 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 256, Threads: 8
+srun: job 216103 queued and waiting for resources
+srun: job 216103 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 294.838 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 256, Threads: 16
+srun: job 216105 queued and waiting for resources
+srun: job 216105 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 312.699 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 100000000, Payload: 256, Threads: 32
+srun: job 216110 queued and waiting for resources
+srun: job 216110 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 338.791 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 8, Threads: 8
+srun: job 216116 queued and waiting for resources
+srun: job 216116 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.294508 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 8, Threads: 16
+srun: job 216120 queued and waiting for resources
+srun: job 216120 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.285423 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 8, Threads: 32
+srun: job 216122 queued and waiting for resources
+srun: job 216122 has been allocated resources
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.278359 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 16, Threads: 8
+srun: job 216124 queued and waiting for resources
+srun: job 216124 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.295936 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 16, Threads: 16
+srun: job 216126 queued and waiting for resources
+srun: job 216126 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.297318 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 16, Threads: 32
+srun: job 216128 queued and waiting for resources
+srun: job 216128 has been allocated resources
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.294279 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 32, Threads: 8
+srun: job 216130 queued and waiting for resources
+srun: job 216130 has been allocated resources
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.351418 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 32, Threads: 16
+srun: job 216132 queued and waiting for resources
+srun: job 216132 has been allocated resources
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.361606 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 32, Threads: 32
+srun: job 216134 queued and waiting for resources
+srun: job 216134 has been allocated resources
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.377487 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 64, Threads: 8
+srun: job 216136 queued and waiting for resources
+srun: job 216136 has been allocated resources
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.535375 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 64, Threads: 16
+srun: job 216138 queued and waiting for resources
+srun: job 216138 has been allocated resources
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.525504 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 64, Threads: 32
+srun: job 216140 queued and waiting for resources
+srun: job 216140 has been allocated resources
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.532882 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 128, Threads: 8
+srun: job 216142 queued and waiting for resources
+srun: job 216142 has been allocated resources
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.852777 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 128, Threads: 16
+srun: job 216144 queued and waiting for resources
+srun: job 216144 has been allocated resources
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.826034 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 128, Threads: 32
+srun: job 216146 queued and waiting for resources
+srun: job 216146 has been allocated resources
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.848226 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 256, Threads: 8
+srun: job 216148 queued and waiting for resources
+srun: job 216148 has been allocated resources
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.47628 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 256, Threads: 16
+srun: job 216150 queued and waiting for resources
+srun: job 216150 has been allocated resources
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.46643 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 1000000, Payload: 256, Threads: 32
+srun: job 216152 queued and waiting for resources
+srun: job 216152 has been allocated resources
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.53134 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 8, Threads: 8
+srun: job 216154 queued and waiting for resources
+srun: job 216154 has been allocated resources
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.84345 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 8, Threads: 16
+srun: job 216156 queued and waiting for resources
+srun: job 216156 has been allocated resources
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.78005 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 8, Threads: 32
+srun: job 216158 queued and waiting for resources
+srun: job 216158 has been allocated resources
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.79489 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 16, Threads: 8
+srun: job 216160 queued and waiting for resources
+srun: job 216160 has been allocated resources
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.42929 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 16, Threads: 16
+srun: job 216162 queued and waiting for resources
+srun: job 216162 has been allocated resources
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.85234 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 16, Threads: 32
+srun: job 216164 queued and waiting for resources
+srun: job 216164 has been allocated resources
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.95388 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 32, Threads: 8
+srun: job 216166 queued and waiting for resources
+srun: job 216166 has been allocated resources
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.89094 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 32, Threads: 16
+srun: job 216168 queued and waiting for resources
+srun: job 216168 has been allocated resources
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.62106 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 32, Threads: 32
+srun: job 216170 queued and waiting for resources
+srun: job 216170 has been allocated resources
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.67287 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 64, Threads: 8
+srun: job 216172 queued and waiting for resources
+srun: job 216172 has been allocated resources
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 5.78108 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 64, Threads: 16
+srun: job 216174 queued and waiting for resources
+srun: job 216174 has been allocated resources
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 5.22958 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 64, Threads: 32
+srun: job 216176 queued and waiting for resources
+srun: job 216176 has been allocated resources
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 5.55722 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 128, Threads: 8
+srun: job 216178 queued and waiting for resources
+srun: job 216178 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 8.84981 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 128, Threads: 16
+srun: job 216180 queued and waiting for resources
+srun: job 216180 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 8.14012 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 128, Threads: 32
+srun: job 216182 queued and waiting for resources
+srun: job 216182 has been allocated resources
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 8.49351 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 256, Threads: 8
+srun: job 216184 queued and waiting for resources
+srun: job 216184 has been allocated resources
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 17.4824 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 256, Threads: 16
+srun: job 216186 queued and waiting for resources
+srun: job 216186 has been allocated resources
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 14.5578 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 10000000, Payload: 256, Threads: 32
+srun: job 216188 queued and waiting for resources
+srun: job 216188 has been allocated resources
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 16.4201 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 8, Threads: 8
+srun: job 216190 queued and waiting for resources
+srun: job 216190 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 59.1715 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 8, Threads: 16
+srun: job 216192 queued and waiting for resources
+srun: job 216192 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 57.7819 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 8, Threads: 32
+srun: job 216194 queued and waiting for resources
+srun: job 216194 has been allocated resources
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 57.6221 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 16, Threads: 8
+srun: job 216196 queued and waiting for resources
+srun: job 216196 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 62.138 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 16, Threads: 16
+srun: job 216198 queued and waiting for resources
+srun: job 216198 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 59.4528 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 16, Threads: 32
+srun: job 216200 queued and waiting for resources
+srun: job 216200 has been allocated resources
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 59.1069 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 32, Threads: 8
+srun: job 216202 queued and waiting for resources
+srun: job 216202 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 82.0604 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 32, Threads: 16
+srun: job 216204 queued and waiting for resources
+srun: job 216204 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 78.2492 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 32, Threads: 32
+srun: job 216206 queued and waiting for resources
+srun: job 216206 has been allocated resources
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 81.4025 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 64, Threads: 8
+srun: job 216210 queued and waiting for resources
+srun: job 216210 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 116.221 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 64, Threads: 16
+srun: job 216212 queued and waiting for resources
+srun: job 216212 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 113.826 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 64, Threads: 32
+srun: job 216214 queued and waiting for resources
+srun: job 216214 has been allocated resources
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 120.208 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 128, Threads: 8
+srun: job 216216 queued and waiting for resources
+srun: job 216216 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 165.421 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 128, Threads: 16
+srun: job 216218 queued and waiting for resources
+srun: job 216218 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 186.022 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 128, Threads: 32
+srun: job 216221 queued and waiting for resources
+srun: job 216221 has been allocated resources
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 164.285 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 256, Threads: 8
+srun: job 216223 queued and waiting for resources
+srun: job 216223 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 8
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 286.294 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 256, Threads: 16
+srun: job 216225 queued and waiting for resources
+srun: job 216225 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 290.363 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 100000000, Payload: 256, Threads: 32
+srun: job 216228 queued and waiting for resources
+srun: job 216228 has been allocated resources
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 32
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 278.953 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 2000000, Payload: 8, Threads: 16
+srun: job 241201 queued and waiting for resources
+srun: job 241201 has been allocated resources
+Record payload: 8
+Array size: 2000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.423446s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 2000000, Payload: 16, Threads: 16
+Record payload: 16
+Array size: 2000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.420743s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 2000000, Payload: 32, Threads: 16
+srun: job 241207 queued and waiting for resources
+srun: job 241207 has been allocated resources
+Record payload: 32
+Array size: 2000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.533164s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 2000000, Payload: 64, Threads: 16
+srun: job 241233 queued and waiting for resources
+srun: job 241233 has been allocated resources
+Record payload: 64
+Array size: 2000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.728055s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 2000000, Payload: 128, Threads: 16
+srun: job 241245 queued and waiting for resources
+srun: job 241245 has been allocated resources
+Record payload: 128
+Array size: 2000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.950953s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 2000000, Payload: 256, Threads: 16
+srun: job 241263 queued and waiting for resources
+srun: job 241263 has been allocated resources
+Record payload: 256
+Array size: 2000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 1.46351s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 4000000, Payload: 8, Threads: 16
+srun: job 241269 queued and waiting for resources
+srun: job 241269 has been allocated resources
+Record payload: 8
+Array size: 4000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.8825s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 4000000, Payload: 16, Threads: 16
+Record payload: 16
+Array size: 4000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.877466s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 4000000, Payload: 32, Threads: 16
+srun: job 241282 queued and waiting for resources
+srun: job 241282 has been allocated resources
+Record payload: 32
+Array size: 4000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 1.13043s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 4000000, Payload: 64, Threads: 16
+Record payload: 64
+Array size: 4000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 1.58877s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 4000000, Payload: 128, Threads: 16
+srun: job 241295 queued and waiting for resources
+srun: job 241295 has been allocated resources
+Record payload: 128
+Array size: 4000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.09113s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 4000000, Payload: 256, Threads: 16
+srun: job 241302 queued and waiting for resources
+srun: job 241302 has been allocated resources
+Record payload: 256
+Array size: 4000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 3.32127s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 8000000, Payload: 8, Threads: 16
+srun: job 241309 queued and waiting for resources
+srun: job 241309 has been allocated resources
+Record payload: 8
+Array size: 8000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.12354s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 8000000, Payload: 16, Threads: 16
+srun: job 241310 queued and waiting for resources
+srun: job 241310 has been allocated resources
+Record payload: 16
+Array size: 8000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 1.87978s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 8000000, Payload: 32, Threads: 16
+srun: job 241327 queued and waiting for resources
+srun: job 241327 has been allocated resources
+Record payload: 32
+Array size: 8000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.77259s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 8000000, Payload: 64, Threads: 16
+srun: job 241343 queued and waiting for resources
+srun: job 241343 has been allocated resources
+Record payload: 64
+Array size: 8000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 3.78567s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 8000000, Payload: 128, Threads: 16
+srun: job 241354 queued and waiting for resources
+srun: job 241354 has been allocated resources
+Record payload: 128
+Array size: 8000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 4.73495s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 1, Size: 8000000, Payload: 256, Threads: 16
+srun: job 241371 queued and waiting for resources
+srun: job 241371 has been allocated resources
+Record payload: 256
+Array size: 8000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 6.74164s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 2000000, Payload: 8, Threads: 16
+srun: job 241391 queued and waiting for resources
+srun: job 241391 has been allocated resources
+Record payload: 8
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.592708 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 2000000, Payload: 16, Threads: 16
+srun: job 241395 queued and waiting for resources
+srun: job 241395 has been allocated resources
+Record payload: 16
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.611051 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 2000000, Payload: 32, Threads: 16
+srun: job 241399 queued and waiting for resources
+srun: job 241399 has been allocated resources
+Record payload: 32
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 0.762517 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 2000000, Payload: 64, Threads: 16
+srun: job 241402 queued and waiting for resources
+srun: job 241402 has been allocated resources
+Record payload: 64
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 1.10447 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 2000000, Payload: 128, Threads: 16
+srun: job 241407 queued and waiting for resources
+srun: job 241407 has been allocated resources
+Record payload: 128
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 1.66077 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 2000000, Payload: 256, Threads: 16
+srun: job 241413 queued and waiting for resources
+srun: job 241413 has been allocated resources
+Record payload: 256
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 2.46368 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 4000000, Payload: 8, Threads: 16
+srun: job 241421 queued and waiting for resources
+srun: job 241421 has been allocated resources
+Record payload: 8
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 1.23632 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 4000000, Payload: 16, Threads: 16
+srun: job 241426 queued and waiting for resources
+srun: job 241426 has been allocated resources
+Record payload: 16
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 1.57644 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 4000000, Payload: 32, Threads: 16
+srun: job 241432 queued and waiting for resources
+srun: job 241432 has been allocated resources
+Record payload: 32
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 1.70216 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 4000000, Payload: 64, Threads: 16
+srun: job 241439 queued and waiting for resources
+srun: job 241439 has been allocated resources
+Record payload: 64
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 2.22219 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 4000000, Payload: 128, Threads: 16
+srun: job 241447 queued and waiting for resources
+srun: job 241447 has been allocated resources
+Record payload: 128
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 3.13782 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 4000000, Payload: 256, Threads: 16
+srun: job 241456 queued and waiting for resources
+srun: job 241456 has been allocated resources
+Record payload: 256
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 5.09962 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 8000000, Payload: 8, Threads: 16
+srun: job 241467 queued and waiting for resources
+srun: job 241467 has been allocated resources
+Record payload: 8
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 2.90999 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 8000000, Payload: 16, Threads: 16
+srun: job 241470 queued and waiting for resources
+srun: job 241470 has been allocated resources
+Record payload: 16
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 2.67245 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 8000000, Payload: 32, Threads: 16
+srun: job 241475 queued and waiting for resources
+srun: job 241475 has been allocated resources
+Record payload: 32
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 3.41904 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 8000000, Payload: 64, Threads: 16
+srun: job 241486 queued and waiting for resources
+srun: job 241486 has been allocated resources
+Record payload: 64
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 4.93236 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 8000000, Payload: 128, Threads: 16
+srun: job 241499 queued and waiting for resources
+srun: job 241499 has been allocated resources
+Record payload: 128
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 10000000
+MPI Finalized
+Tempo totale (escl. init): 7.04189 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 2, Size: 8000000, Payload: 256, Threads: 16
+srun: job 241517 queued and waiting for resources
+srun: job 241517 has been allocated resources
+Record payload: 256
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 2
+Chunk size: 5000000
+MPI Finalized
+Tempo totale (escl. init): 11.4444 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 2000000, Payload: 8, Threads: 16
+srun: job 241529 queued and waiting for resources
+srun: job 241529 has been allocated resources
+Record payload: 8
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.548335 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 2000000, Payload: 16, Threads: 16
+srun: job 241534 queued and waiting for resources
+srun: job 241534 has been allocated resources
+Record payload: 16
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.589013 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 2000000, Payload: 32, Threads: 16
+srun: job 241536 queued and waiting for resources
+srun: job 241536 has been allocated resources
+Record payload: 32
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.744312 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 2000000, Payload: 64, Threads: 16
+srun: job 241538 queued and waiting for resources
+srun: job 241538 has been allocated resources
+Record payload: 64
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.11489 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 2000000, Payload: 128, Threads: 16
+srun: job 241540 queued and waiting for resources
+srun: job 241540 has been allocated resources
+Record payload: 128
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.75362 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 2000000, Payload: 256, Threads: 16
+srun: job 241542 queued and waiting for resources
+srun: job 241542 has been allocated resources
+Record payload: 256
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.83172 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 4000000, Payload: 8, Threads: 16
+srun: job 241545 queued and waiting for resources
+srun: job 241545 has been allocated resources
+Record payload: 8
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.13746 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 4000000, Payload: 16, Threads: 16
+srun: job 241547 queued and waiting for resources
+srun: job 241547 has been allocated resources
+Record payload: 16
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.19744 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 4000000, Payload: 32, Threads: 16
+srun: job 241549 queued and waiting for resources
+srun: job 241549 has been allocated resources
+Record payload: 32
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.57368 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 4000000, Payload: 64, Threads: 16
+srun: job 241551 queued and waiting for resources
+srun: job 241551 has been allocated resources
+Record payload: 64
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.1946 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 4000000, Payload: 128, Threads: 16
+srun: job 241553 queued and waiting for resources
+srun: job 241553 has been allocated resources
+Record payload: 128
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.44578 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 4000000, Payload: 256, Threads: 16
+srun: job 241558 queued and waiting for resources
+srun: job 241558 has been allocated resources
+Record payload: 256
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 5.89581 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 8000000, Payload: 8, Threads: 16
+srun: job 241568 queued and waiting for resources
+srun: job 241568 has been allocated resources
+Record payload: 8
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.35542 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 8000000, Payload: 16, Threads: 16
+srun: job 241575 queued and waiting for resources
+srun: job 241575 has been allocated resources
+Record payload: 16
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.43181 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 8000000, Payload: 32, Threads: 16
+srun: job 241578 queued and waiting for resources
+srun: job 241578 has been allocated resources
+Record payload: 32
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.15457 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 8000000, Payload: 64, Threads: 16
+srun: job 241585 queued and waiting for resources
+srun: job 241585 has been allocated resources
+Record payload: 64
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 4.60735 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 8000000, Payload: 128, Threads: 16
+srun: job 241589 queued and waiting for resources
+srun: job 241589 has been allocated resources
+Record payload: 128
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 7.07957 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 4, Size: 8000000, Payload: 256, Threads: 16
+srun: job 241599 queued and waiting for resources
+srun: job 241599 has been allocated resources
+Record payload: 256
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 4
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 11.4573 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 2000000, Payload: 8, Threads: 16
+srun: job 241608 queued and waiting for resources
+srun: job 241608 has been allocated resources
+Record payload: 8
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.518989 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 2000000, Payload: 16, Threads: 16
+srun: job 241611 queued and waiting for resources
+srun: job 241611 has been allocated resources
+Record payload: 16
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.569613 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 2000000, Payload: 32, Threads: 16
+srun: job 241614 queued and waiting for resources
+srun: job 241614 has been allocated resources
+Record payload: 32
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 0.719356 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 2000000, Payload: 64, Threads: 16
+srun: job 241617 queued and waiting for resources
+srun: job 241617 has been allocated resources
+Record payload: 64
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.08096 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 2000000, Payload: 128, Threads: 16
+srun: job 241620 queued and waiting for resources
+srun: job 241620 has been allocated resources
+Record payload: 128
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.64344 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 2000000, Payload: 256, Threads: 16
+srun: job 241623 queued and waiting for resources
+srun: job 241623 has been allocated resources
+Record payload: 256
+Array size: 2000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.92789 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 4000000, Payload: 8, Threads: 16
+srun: job 241626 queued and waiting for resources
+srun: job 241626 has been allocated resources
+Record payload: 8
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.06258 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 4000000, Payload: 16, Threads: 16
+srun: job 241633 queued and waiting for resources
+srun: job 241633 has been allocated resources
+Record payload: 16
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.3276 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 4000000, Payload: 32, Threads: 16
+srun: job 241636 queued and waiting for resources
+srun: job 241636 has been allocated resources
+Record payload: 32
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 1.47527 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 4000000, Payload: 64, Threads: 16
+srun: job 241639 queued and waiting for resources
+srun: job 241639 has been allocated resources
+Record payload: 64
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.14065 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 4000000, Payload: 128, Threads: 16
+srun: job 241642 queued and waiting for resources
+srun: job 241642 has been allocated resources
+Record payload: 128
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 3.51661 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 4000000, Payload: 256, Threads: 16
+srun: job 241645 queued and waiting for resources
+srun: job 241645 has been allocated resources
+Record payload: 256
+Array size: 4000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 6.15256 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 8000000, Payload: 8, Threads: 16
+srun: job 241648 queued and waiting for resources
+srun: job 241648 has been allocated resources
+Record payload: 8
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.15228 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 8000000, Payload: 16, Threads: 16
+srun: job 241651 queued and waiting for resources
+srun: job 241651 has been allocated resources
+Record payload: 16
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.26503 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 8000000, Payload: 32, Threads: 16
+srun: job 241654 queued and waiting for resources
+srun: job 241654 has been allocated resources
+Record payload: 32
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 2.89873 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 8000000, Payload: 64, Threads: 16
+srun: job 241658 queued and waiting for resources
+srun: job 241658 has been allocated resources
+Record payload: 64
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 4.28284 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 8000000, Payload: 128, Threads: 16
+srun: job 241663 queued and waiting for resources
+srun: job 241663 has been allocated resources
+Record payload: 128
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 10000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 6.69321 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------
+Nodes: 8, Size: 8000000, Payload: 256, Threads: 16
+srun: job 241667 queued and waiting for resources
+srun: job 241667 has been allocated resources
+Record payload: 256
+Array size: 8000000
+N° cores according to FastFlow: 16
+MPI numbero of nodes: 8
+Chunk size: 5000000
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+MPI Finalized
+Tempo totale (escl. init): 11.6589 s
+Array ordinato correttamente.
+MPI Finalized
+------------------------------------------

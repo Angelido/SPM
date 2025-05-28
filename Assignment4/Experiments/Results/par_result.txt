@@ -1,0 +1,4324 @@
+Starting benchmark for mergesort_par_new
+Date: Sat May 24 02:28:47 AM CEST 2025
+------------------------------------------
+Running N=10K, P=8, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 1
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.00094886s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 1
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000972236s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 1
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000963499s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 2
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00132505s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 2
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00123507s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 2
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00131668s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 4
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00134583s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 4
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0012892s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 4
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00120893s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 8
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00217157s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 8
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00277624s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 8
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00222943s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 16
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00299292s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 16
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00333751s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 16
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00346722s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 32
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00649596s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 32
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0067849s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=8, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 8 -t 32
+Record payload: 8
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00664094s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 1
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000957397s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 1
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000962357s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 1
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000956115s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 2
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00129417s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 2
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00131483s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 2
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00129905s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 4
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00125066s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 4
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00128358s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 4
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00120026s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 8
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0021115s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 8
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00228723s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 8
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00232543s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 16
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0036084s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 16
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00369847s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 16
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00328815s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 32
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00640911s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 32
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00599268s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=16, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 16 -t 32
+Record payload: 16
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00600789s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 1
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000977983s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 1
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000969578s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 1
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000947553s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 2
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00126767s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 2
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00126752s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 2
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00108682s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 4
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00134957s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 4
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00121442s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 4
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0012584s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 8
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00224328s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 8
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0020304s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 8
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00185892s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 16
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00320682s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 16
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00270572s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 16
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00334949s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 32
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00667556s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 32
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00660479s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=32, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 32 -t 32
+Record payload: 32
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0069185s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 1
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000995842s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 1
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000999423s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 1
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000990458s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 2
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00128404s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 2
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00123164s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 2
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00136138s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 4
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00161194s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 4
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00152298s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 4
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00154945s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 8
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00191242s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 8
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00250806s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 8
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00236948s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 16
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00367478s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 16
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00298787s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 16
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0042251s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 32
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00751141s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 32
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00589286s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=64, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 64 -t 32
+Record payload: 64
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0077705s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 1
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000964428s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 1
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000979598s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 1
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.00096003s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 2
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00141079s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 2
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00133536s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 2
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00134001s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 4
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00179508s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 4
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00172574s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 4
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00181789s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 8
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00283844s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 8
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00284252s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 8
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00241314s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 16
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00381934s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 16
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00401578s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 16
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00411833s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 32
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00744046s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 32
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00766114s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=128, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10K -r 128 -t 32
+Record payload: 128
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00594747s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 1
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0204564s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 1
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.021139s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 1
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0202782s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 2
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0129142s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 2
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0124823s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 2
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0124197s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 4
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0101742s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 4
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00949523s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 4
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0113849s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 8
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00913801s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 8
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00885911s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 8
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0094925s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 16
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0107193s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 16
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0100918s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 16
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00938145s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 32
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.014691s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 32
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0137572s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=8, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 8 -t 32
+Record payload: 8
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0147818s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 1
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0198447s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 1
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0198944s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 1
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0198822s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 2
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0125824s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 2
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0121194s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 2
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0122554s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 4
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00911649s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 4
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00926234s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 4
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00949462s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 8
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00849528s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 8
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.008864s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 8
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00842314s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 16
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0106215s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 16
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0101815s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 16
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.01007s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 32
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0138848s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 32
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0129731s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=16, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 16 -t 32
+Record payload: 16
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0148461s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 1
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0216429s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 1
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0214163s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 1
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0209205s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 2
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0132768s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 2
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0135045s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 2
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0134009s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 4
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0113623s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 4
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0104208s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 4
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0104235s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 8
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.010517s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 8
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0101704s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 8
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0103645s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 16
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0123931s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 16
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0121895s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 16
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0115335s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 32
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0167379s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 32
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0197377s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=32, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 32 -t 32
+Record payload: 32
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.017201s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 1
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0264423s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 1
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0261484s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 1
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0267058s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 2
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0188273s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 2
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0191485s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 2
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0185523s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 4
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0167677s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 4
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0165338s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 4
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0157465s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 8
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0148906s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 8
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0150692s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 8
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0156961s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 16
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0202844s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 16
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0210562s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 16
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0206821s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 32
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0275711s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 32
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0279958s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=64, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 64 -t 32
+Record payload: 64
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0280017s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 1
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0408885s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 1
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0408657s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 1
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0411613s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 2
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0351429s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 2
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0349893s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 2
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0351128s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 4
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0333382s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 4
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0328343s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 4
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0335094s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 8
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0325062s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 8
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0323046s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 8
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0323299s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 16
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0354338s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 16
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0356246s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 16
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0356496s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 32
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0436421s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 32
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0442643s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=128, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100K -r 128 -t 32
+Record payload: 128
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0432856s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 1
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.424554s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 1
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.43223s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 1
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.421514s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 2
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.418737s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 2
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.419711s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 2
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.41959s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 4
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.337759s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 4
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.338109s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 4
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.338086s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 8
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.306551s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 8
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.309437s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 8
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.310025s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 16
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.202304s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 16
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.202348s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 16
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.204086s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 32
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.231262s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 32
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.231042s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=8, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 8 -t 32
+Record payload: 8
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.231237s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 1
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.41741s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 1
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.419296s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 1
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.416603s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 2
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.416338s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 2
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.416459s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 2
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.415779s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 4
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.336518s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 4
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.335644s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 4
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.338065s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 8
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.307127s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 8
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.306855s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 8
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.307328s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 16
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.201708s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 16
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.201476s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 16
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.201521s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 32
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.228998s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 32
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.230006s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=16, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 16 -t 32
+Record payload: 16
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.228709s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 1
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.507139s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 1
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.507621s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 1
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.508778s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 2
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.526473s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 2
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.528196s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 2
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.526411s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 4
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.423854s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 4
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.424084s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 4
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.423683s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 8
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.388674s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 8
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.386493s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 8
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.387883s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 16
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.253017s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 16
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.254124s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 16
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.253005s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 32
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.2926s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 32
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.293374s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=32, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 32 -t 32
+Record payload: 32
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.292561s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 1
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.686769s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 1
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.683211s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 1
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.687908s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 2
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.736711s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 2
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.736765s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 2
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.735974s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 4
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.58146s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 4
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.583425s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 4
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.583096s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 8
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.528151s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 8
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.527769s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 8
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.526038s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 16
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.345388s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 16
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.343799s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 16
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.473353s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 32
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.385773s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 32
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.385128s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=64, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 64 -t 32
+Record payload: 64
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.385154s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 1
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.922075s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 1
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.918116s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 1
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.913713s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 2
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.971907s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 2
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.97223s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 2
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.972799s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 4
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.747773s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 4
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.748426s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 4
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.74857s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 8
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.660676s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 8
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.655608s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 8
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.659661s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 16
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.447408s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 16
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.448086s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 16
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.448912s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 32
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.482274s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 32
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.482208s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=128, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 1M -r 128 -t 32
+Record payload: 128
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.482256s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 1
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 7.06013s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 1
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 7.02803s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 1
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 7.02833s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 2
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 5.33111s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 2
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 5.32021s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 2
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 5.34617s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 4
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 3.88734s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 4
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 3.8868s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 4
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 3.88401s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 8
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.37734s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 8
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.36984s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 8
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.42722s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 16
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.4526s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 16
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.4564s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 16
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.46878s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 32
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.72582s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 32
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.73234s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=8, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 8 -t 32
+Record payload: 8
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.70998s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 1
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 6.98213s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 1
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 6.98247s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 1
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 6.98772s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 2
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 5.31913s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 2
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 5.33026s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 2
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 5.33798s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 4
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 3.88138s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 4
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 3.88353s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 4
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 3.88348s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 8
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.3736s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 8
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.36877s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 8
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 3.38627s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 16
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.45224s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 16
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.44813s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 16
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 2.45002s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 32
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.68721s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 32
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.68964s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=16, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 16 -t 32
+Record payload: 16
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 2.6852s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 1
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 8.37705s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 1
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 8.40462s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 1
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 8.37252s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 2
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 6.68911s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 2
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 6.6888s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 2
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 6.68731s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 4
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 5.00746s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 4
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 4.9986s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 4
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 5.00299s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 8
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 4.50319s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 8
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 4.503s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 8
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 4.50183s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 16
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 3.07188s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 16
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 3.12258s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 16
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 3.09834s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 32
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 3.48539s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 32
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 3.50744s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=32, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 32 -t 32
+Record payload: 32
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 3.4937s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 1
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 11.2271s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 1
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 11.2351s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 1
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 11.2337s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 2
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 9.27821s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 2
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 9.27725s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 2
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 9.27498s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 4
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 7.1719s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 4
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 7.10775s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 4
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 7.18327s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 8
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 6.02146s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 8
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 6.01946s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 8
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 6.06327s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 16
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 4.66343s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 16
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 4.67767s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 16
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 4.67221s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 32
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 5.18567s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 32
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 5.19069s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=64, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 64 -t 32
+Record payload: 64
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 5.18591s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 1
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 14.6154s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 1
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 14.6186s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 1
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 14.6568s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 2
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 13.9966s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 2
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 14.0245s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 2
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 14.0542s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 4
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 9.88335s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 4
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 9.86683s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 4
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 9.88049s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 8
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 8.09519s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 8
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 8.04806s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 8
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 8.14321s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 16
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 5.59954s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 16
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 5.59942s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 16
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 5.60034s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 32
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 5.69246s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 32
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 5.68765s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=128, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 10M -r 128 -t 32
+Record payload: 128
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 5.70882s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=1 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 1
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 96.4762s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=1 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 1
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 94.8136s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=1 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 1
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 94.6523s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=2 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 2
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 70.3071s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=2 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 2
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 69.7537s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=2 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 2
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 69.5256s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=4 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 4
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 49.6658s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=4 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 4
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 50.9535s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=4 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 4
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 50.5295s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 8
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 36.8052s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 8
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 37.4866s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 8
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 37.7299s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 16
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 27.9242s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 16
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 27.2282s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 16
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 27.65s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 32
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 30.0995s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 32
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 29.7469s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=8, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 8 -t 32
+Record payload: 8
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 30.1323s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 8
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 37.7655s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 8
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 36.9941s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 8
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 37.4751s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 16
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 27.3943s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 16
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 26.3605s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 16
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 26.3869s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 32
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 29.4002s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 32
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 29.3301s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 16 -t 32
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 28.3215s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 8
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 49.4383s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 8
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 49.325s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 8
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 48.1603s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 16
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 35.7906s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 16
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 37.1708s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 16
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 36.5993s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 32
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 40.4016s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 32
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 40.3844s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 32 -t 32
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 40.6793s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 8
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 67.6152s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 8
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 65.7508s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 8
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 65.9543s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 16
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 52.6203s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 16
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 54.3229s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 16
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 52.8145s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 32
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 58.6855s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 32
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 57.9968s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 64 -t 32
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 56.2639s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=8 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 8
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 98.0507s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=8 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 8
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 95.9153s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=8 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 8
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 95.8983s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=16 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 16
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 65.8739s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=16 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 16
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 64.2336s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=16 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 16
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 64.2126s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=32 (Run 1)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 32
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 66.5565s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=32 (Run 2)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 32
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 66.8301s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=32 (Run 3)
+CMD: ./mergesort_par_new -s 100M -r 128 -t 32
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 65.0883s
+------------------------------------------
+Running N=10K, P=256, T=1 (Run 1)
+CMD: ./mergesort_par -s 10K -r 256 -t 1
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000980337s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=1 (Run 2)
+CMD: ./mergesort_par -s 10K -r 256 -t 1
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000985367s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=1 (Run 3)
+CMD: ./mergesort_par -s 10K -r 256 -t 1
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.000989989s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=2 (Run 1)
+CMD: ./mergesort_par -s 10K -r 256 -t 2
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00234387s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=2 (Run 2)
+CMD: ./mergesort_par -s 10K -r 256 -t 2
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0023869s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=2 (Run 3)
+CMD: ./mergesort_par -s 10K -r 256 -t 2
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.00231152s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=4 (Run 1)
+CMD: ./mergesort_par -s 10K -r 256 -t 4
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00314933s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=4 (Run 2)
+CMD: ./mergesort_par -s 10K -r 256 -t 4
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00254383s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=4 (Run 3)
+CMD: ./mergesort_par -s 10K -r 256 -t 4
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.00297592s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=8 (Run 1)
+CMD: ./mergesort_par -s 10K -r 256 -t 8
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00367853s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=8 (Run 2)
+CMD: ./mergesort_par -s 10K -r 256 -t 8
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.00379642s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=8 (Run 3)
+CMD: ./mergesort_par -s 10K -r 256 -t 8
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0036669s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=16 (Run 1)
+CMD: ./mergesort_par -s 10K -r 256 -t 16
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00471538s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=16 (Run 2)
+CMD: ./mergesort_par -s 10K -r 256 -t 16
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.00604377s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=16 (Run 3)
+CMD: ./mergesort_par -s 10K -r 256 -t 16
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0050033s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=32 (Run 1)
+CMD: ./mergesort_par -s 10K -r 256 -t 32
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00968114s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=32 (Run 2)
+CMD: ./mergesort_par -s 10K -r 256 -t 32
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00863339s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10K, P=256, T=32 (Run 3)
+CMD: ./mergesort_par -s 10K -r 256 -t 32
+Record payload: 256
+Array size: 10000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.00816642s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=1 (Run 1)
+CMD: ./mergesort_par -s 100K -r 256 -t 1
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0692811s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=1 (Run 2)
+CMD: ./mergesort_par -s 100K -r 256 -t 1
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0680264s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=1 (Run 3)
+CMD: ./mergesort_par -s 100K -r 256 -t 1
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 0.0690205s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=2 (Run 1)
+CMD: ./mergesort_par -s 100K -r 256 -t 2
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.0847232s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=2 (Run 2)
+CMD: ./mergesort_par -s 100K -r 256 -t 2
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.084381s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=2 (Run 3)
+CMD: ./mergesort_par -s 100K -r 256 -t 2
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 0.084449s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=4 (Run 1)
+CMD: ./mergesort_par -s 100K -r 256 -t 4
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0739884s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=4 (Run 2)
+CMD: ./mergesort_par -s 100K -r 256 -t 4
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.073922s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=4 (Run 3)
+CMD: ./mergesort_par -s 100K -r 256 -t 4
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 0.0742773s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=8 (Run 1)
+CMD: ./mergesort_par -s 100K -r 256 -t 8
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0721257s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=8 (Run 2)
+CMD: ./mergesort_par -s 100K -r 256 -t 8
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0704614s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=8 (Run 3)
+CMD: ./mergesort_par -s 100K -r 256 -t 8
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.0722285s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=16 (Run 1)
+CMD: ./mergesort_par -s 100K -r 256 -t 16
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0527259s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=16 (Run 2)
+CMD: ./mergesort_par -s 100K -r 256 -t 16
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0527002s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=16 (Run 3)
+CMD: ./mergesort_par -s 100K -r 256 -t 16
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.0521461s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=32 (Run 1)
+CMD: ./mergesort_par -s 100K -r 256 -t 32
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0688524s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=32 (Run 2)
+CMD: ./mergesort_par -s 100K -r 256 -t 32
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0688245s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100K, P=256, T=32 (Run 3)
+CMD: ./mergesort_par -s 100K -r 256 -t 32
+Record payload: 256
+Array size: 100000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.0698196s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=1 (Run 1)
+CMD: ./mergesort_par -s 1M -r 256 -t 1
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 1.38547s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=1 (Run 2)
+CMD: ./mergesort_par -s 1M -r 256 -t 1
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 1.37989s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=1 (Run 3)
+CMD: ./mergesort_par -s 1M -r 256 -t 1
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 1.38037s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=2 (Run 1)
+CMD: ./mergesort_par -s 1M -r 256 -t 2
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 1.52989s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=2 (Run 2)
+CMD: ./mergesort_par -s 1M -r 256 -t 2
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 1.50678s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=2 (Run 3)
+CMD: ./mergesort_par -s 1M -r 256 -t 2
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 1.52777s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=4 (Run 1)
+CMD: ./mergesort_par -s 1M -r 256 -t 4
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 1.08318s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=4 (Run 2)
+CMD: ./mergesort_par -s 1M -r 256 -t 4
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 1.07959s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=4 (Run 3)
+CMD: ./mergesort_par -s 1M -r 256 -t 4
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 1.08362s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=8 (Run 1)
+CMD: ./mergesort_par -s 1M -r 256 -t 8
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.914897s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=8 (Run 2)
+CMD: ./mergesort_par -s 1M -r 256 -t 8
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.923934s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=8 (Run 3)
+CMD: ./mergesort_par -s 1M -r 256 -t 8
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 0.911585s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=16 (Run 1)
+CMD: ./mergesort_par -s 1M -r 256 -t 16
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.651303s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=16 (Run 2)
+CMD: ./mergesort_par -s 1M -r 256 -t 16
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.651799s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=16 (Run 3)
+CMD: ./mergesort_par -s 1M -r 256 -t 16
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 0.651023s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=32 (Run 1)
+CMD: ./mergesort_par -s 1M -r 256 -t 32
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.748537s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=32 (Run 2)
+CMD: ./mergesort_par -s 1M -r 256 -t 32
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.747796s
+Array ordinato correttamente.
+------------------------------------------
+Running N=1M, P=256, T=32 (Run 3)
+CMD: ./mergesort_par -s 1M -r 256 -t 32
+Record payload: 256
+Array size: 1000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 0.748253s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=1 (Run 1)
+CMD: ./mergesort_par -s 10M -r 256 -t 1
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 21.1002s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=1 (Run 2)
+CMD: ./mergesort_par -s 10M -r 256 -t 1
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 21.0875s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=1 (Run 3)
+CMD: ./mergesort_par -s 10M -r 256 -t 1
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 21.1058s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=2 (Run 1)
+CMD: ./mergesort_par -s 10M -r 256 -t 2
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 21.2146s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=2 (Run 2)
+CMD: ./mergesort_par -s 10M -r 256 -t 2
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 20.8552s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=2 (Run 3)
+CMD: ./mergesort_par -s 10M -r 256 -t 2
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 20.8609s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=4 (Run 1)
+CMD: ./mergesort_par -s 10M -r 256 -t 4
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 14.199s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=4 (Run 2)
+CMD: ./mergesort_par -s 10M -r 256 -t 4
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 14.2016s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=4 (Run 3)
+CMD: ./mergesort_par -s 10M -r 256 -t 4
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 14.1889s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=8 (Run 1)
+CMD: ./mergesort_par -s 10M -r 256 -t 8
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 11.2651s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=8 (Run 2)
+CMD: ./mergesort_par -s 10M -r 256 -t 8
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 13.0233s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=8 (Run 3)
+CMD: ./mergesort_par -s 10M -r 256 -t 8
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 11.4166s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=16 (Run 1)
+CMD: ./mergesort_par -s 10M -r 256 -t 16
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 8.18047s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=16 (Run 2)
+CMD: ./mergesort_par -s 10M -r 256 -t 16
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 8.19474s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=16 (Run 3)
+CMD: ./mergesort_par -s 10M -r 256 -t 16
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 8.40114s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=32 (Run 1)
+CMD: ./mergesort_par -s 10M -r 256 -t 32
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 9.20773s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=32 (Run 2)
+CMD: ./mergesort_par -s 10M -r 256 -t 32
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 9.52224s
+Array ordinato correttamente.
+------------------------------------------
+Running N=10M, P=256, T=32 (Run 3)
+CMD: ./mergesort_par -s 10M -r 256 -t 32
+Record payload: 256
+Array size: 10000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 9.20695s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=1 (Run 1)
+CMD: ./mergesort_par -s 100M -r 256 -t 1
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 286.751s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=1 (Run 2)
+CMD: ./mergesort_par -s 100M -r 256 -t 1
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 284.816s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=1 (Run 3)
+CMD: ./mergesort_par -s 100M -r 256 -t 1
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 284.659s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=2 (Run 1)
+CMD: ./mergesort_par -s 100M -r 256 -t 2
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 227.706s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=2 (Run 2)
+CMD: ./mergesort_par -s 100M -r 256 -t 2
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 231.204s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=2 (Run 3)
+CMD: ./mergesort_par -s 100M -r 256 -t 2
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 231.137s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=4 (Run 1)
+CMD: ./mergesort_par -s 100M -r 256 -t 4
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 151.495s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=4 (Run 2)
+CMD: ./mergesort_par -s 100M -r 256 -t 4
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 151.467s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=4 (Run 3)
+CMD: ./mergesort_par -s 100M -r 256 -t 4
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 151.308s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=8 (Run 1)
+CMD: ./mergesort_par -s 100M -r 256 -t 8
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 117.013s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=8 (Run 2)
+CMD: ./mergesort_par -s 100M -r 256 -t 8
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 117.337s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=8 (Run 3)
+CMD: ./mergesort_par -s 100M -r 256 -t 8
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 8
+# elapsed time (parallel_sort): 116.066s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=16 (Run 1)
+CMD: ./mergesort_par -s 100M -r 256 -t 16
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 117.653s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=16 (Run 2)
+CMD: ./mergesort_par -s 100M -r 256 -t 16
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 117.427s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=16 (Run 3)
+CMD: ./mergesort_par -s 100M -r 256 -t 16
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 16
+# elapsed time (parallel_sort): 117.427s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=32 (Run 1)
+CMD: ./mergesort_par -s 100M -r 256 -t 32
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 133.864s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=32 (Run 2)
+CMD: ./mergesort_par -s 100M -r 256 -t 32
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 148.993s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=256, T=32 (Run 3)
+CMD: ./mergesort_par -s 100M -r 256 -t 32
+Record payload: 256
+Array size: 100000000
+N° cores according to FastFlow: 32
+# elapsed time (parallel_sort): 130.91s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=1 (Run 1)
+CMD: ./mergesort_par -s 100M -r 16 -t 1
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 56.5404s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=1 (Run 2)
+CMD: ./mergesort_par -s 100M -r 16 -t 1
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 56.2407s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=1 (Run 3)
+CMD: ./mergesort_par -s 100M -r 16 -t 1
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 56.2955s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=2 (Run 1)
+CMD: ./mergesort_par -s 100M -r 16 -t 2
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 41.9857s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=2 (Run 2)
+CMD: ./mergesort_par -s 100M -r 16 -t 2
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 42.1221s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=2 (Run 3)
+CMD: ./mergesort_par -s 100M -r 16 -t 2
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 42.4317s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=4 (Run 1)
+CMD: ./mergesort_par -s 100M -r 16 -t 4
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 26.9057s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=4 (Run 2)
+CMD: ./mergesort_par -s 100M -r 16 -t 4
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 27.7428s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=16, T=4 (Run 3)
+CMD: ./mergesort_par -s 100M -r 16 -t 4
+Record payload: 16
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 26.9907s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=1 (Run 1)
+CMD: ./mergesort_par -s 100M -r 32 -t 1
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 68.8108s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=1 (Run 2)
+CMD: ./mergesort_par -s 100M -r 32 -t 1
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 68.7626s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=1 (Run 3)
+CMD: ./mergesort_par -s 100M -r 32 -t 1
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 68.9709s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=2 (Run 1)
+CMD: ./mergesort_par -s 100M -r 32 -t 2
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 53.5138s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=2 (Run 2)
+CMD: ./mergesort_par -s 100M -r 32 -t 2
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 53.9271s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=2 (Run 3)
+CMD: ./mergesort_par -s 100M -r 32 -t 2
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 53.3316s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=4 (Run 1)
+CMD: ./mergesort_par -s 100M -r 32 -t 4
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 34.675s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=4 (Run 2)
+CMD: ./mergesort_par -s 100M -r 32 -t 4
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 34.8333s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=32, T=4 (Run 3)
+CMD: ./mergesort_par -s 100M -r 32 -t 4
+Record payload: 32
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 34.3856s
+Array ordinato correttamente.
+------------------------------------------
+------------------------------------------
+Running N=100M, P=64, T=1 (Run 1)
+CMD: ./mergesort_par -s 100M -r 64 -t 1
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 93.6202s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=1 (Run 2)
+CMD: ./mergesort_par -s 100M -r 64 -t 1
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 93.9976s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=1 (Run 3)
+CMD: ./mergesort_par -s 100M -r 64 -t 1
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 93.7128s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=2 (Run 1)
+CMD: ./mergesort_par -s 100M -r 64 -t 2
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 74.9212s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=2 (Run 2)
+CMD: ./mergesort_par -s 100M -r 64 -t 2
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 75.4434s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=2 (Run 3)
+CMD: ./mergesort_par -s 100M -r 64 -t 2
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 75.2275s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=4 (Run 1)
+CMD: ./mergesort_par -s 100M -r 64 -t 4
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 51.6059s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=4 (Run 2)
+CMD: ./mergesort_par -s 100M -r 64 -t 4
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 53.8855s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=64, T=4 (Run 3)
+CMD: ./mergesort_par -s 100M -r 64 -t 4
+Record payload: 64
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 52.9271s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=1 (Run 1)
+CMD: ./mergesort_par -s 100M -r 128 -t 1
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 155.902s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=1 (Run 2)
+CMD: ./mergesort_par -s 100M -r 128 -t 1
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 155.813s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=1 (Run 3)
+CMD: ./mergesort_par -s 100M -r 128 -t 1
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 1
+# elapsed time (parallel_sort): 155.98s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=2 (Run 1)
+CMD: ./mergesort_par -s 100M -r 128 -t 2
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 133.118s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=2 (Run 2)
+CMD: ./mergesort_par -s 100M -r 128 -t 2
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 133.354s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=2 (Run 3)
+CMD: ./mergesort_par -s 100M -r 128 -t 2
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 2
+# elapsed time (parallel_sort): 133.234s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=4 (Run 1)
+CMD: ./mergesort_par -s 100M -r 128 -t 4
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 98.4895s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=4 (Run 2)
+CMD: ./mergesort_par -s 100M -r 128 -t 4
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 96.4213s
+Array ordinato correttamente.
+------------------------------------------
+Running N=100M, P=128, T=4 (Run 3)
+CMD: ./mergesort_par -s 100M -r 128 -t 4
+Record payload: 128
+Array size: 100000000
+N° cores according to FastFlow: 4
+# elapsed time (parallel_sort): 96.58s
+Array ordinato correttamente.
+------------------------------------------
+Benchmark completed at Sun May 25 02:57:08 AM CEST 2025
